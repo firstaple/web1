@@ -1,0 +1,10 @@
+.nav {
+  --bs-nav-link-color: #fff(--bs-link-color);
+  --bs-nav-link-hover-color: #fff(--bs-link-hover-color);
+}
+
+.nav-tabs {
+  --bs-nav-tabs-border-color: #2b2b2b;
+  --bs-nav-tabs-link-active-color: #fff;
+  --bs-nav-tabs-link-active-bg: #495057;
+}
